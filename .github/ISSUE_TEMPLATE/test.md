@@ -7,9 +7,16 @@ assignees: ''
 
 ---
 
-| Nom  |                                       |
-| Prenom |                                    |
-| Fiche Sellsy |                               |
-| Score critères |                           |
-| Test TOSA |                                 |
-| Commentaires |                          |
+| :----------|:--:|
+| **Nom**  |  |
+| :----------|:--:|
+| **Prenom** |  |
+| :----------|:--:|
+| **Fiche Sellsy** |  |
+| :----------|:---:|
+| **Score critères** |  |
+| :----------|:--:|
+| **Test TOSA** |  |
+| :----------|:--:|
+| **Commentaires** |  |
+| :----------|:--:|
